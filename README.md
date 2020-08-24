@@ -1,5 +1,8 @@
 # Natural-Language-Analysis-on-Delta-Airline
 Natural Language Processing Project on Delta (Python)
+
+
+
 ## Overview
 This is the term project I lead in Natural Language Processing Course held in School of Professional Studies from Columbia University in 2020 Summer.
 
@@ -15,3 +18,8 @@ To analyze the effects, we use articles related to Delta and its stock price in 
 i) Entity analysis (important named entities will be identified; i.e. related companies as well as important countries and cities)  
 ii) Topic and sentiment analysis over the whole dataset.  
 iii) Topic- Sentiment analysis over stock price / stock price change.   
+
+
+## Documents Explaination
+project.ipynb: The code.  
+nlp final project.pdf: Results and Findings in Powerpoint.  
